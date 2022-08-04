@@ -1,4 +1,4 @@
-package com.ust.com.abhi;
+package com.mavenproject.maven_WAR;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
